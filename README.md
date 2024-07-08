@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanyapal" alt="sharanyapal" /></a> </p>
 
-## Hi there 👋
+## About ME 👋😄
 
 - 🔭 I’m currently working on **Real-Time Object Detection, Emotion-Music-Recommendation Model**
 - 🌱 I’m currently learning **Web Application Security, Docker, Kubernetes**
@@ -13,7 +13,7 @@
 - 🤔 I’m looking for help with **Advanced Security Testing Techniques**
 - 💬 Ask me about **Web Application Security, Graphic Design, IT Support, C/C++, Python, Java, MySQL**
 - 📫 How to reach me **sharanyapal856@gmail.com**
-- 😄 Pronouns: **She/Her**
+- 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **I love painting and playing the synthesizer!**
 
 <h3 align="left">Connect with me:</h3>
