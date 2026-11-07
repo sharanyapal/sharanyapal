@@ -1,113 +1,81 @@
-<h1 align="center">Sharanya Pal</h1>
+<a href="https://github.com/sharanyapal?tab=repositories">
+  <img src="./assets/header.svg" alt="Sharanya Pal — Systems & Stories. Code. Commit. Play it again." width="1200" />
+</a>
 
 <p align="center">
-  <strong>System Engineer at TCS · Identity &amp; Access Management · Software Development</strong>
+  <a href="#build-signal">Build signal</a> &nbsp; / &nbsp;
+  <a href="#pick-a-genre">Pick a genre</a> &nbsp; / &nbsp;
+  <a href="#behind-the-keyboard">Behind the keyboard</a> &nbsp; / &nbsp;
+  <a href="https://www.linkedin.com/in/sharanya-pal-a9a637187/">Say hello ↗</a>
 </p>
 
-<p align="center">
-  Building practical projects across identity security, software engineering, and data science.
-</p>
+## Build signal
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sharanya-pal-a9a637187/">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:sharanyapal856@gmail.com">Email</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sharanyapal/sharanya-pal-portfolio">Project Collection</a>
-</p>
+<!-- PROFILE:LIVE:START -->
+![Build signal: 81 public repositories, 12 languages, 34 authored commits and 3 build days in the last 30 days.](./assets/dashboard-8001d9e7e412fd47.svg)
 
----
+**81 public repos** · **12 primary languages** · **34 authored commits / 30 days** · **3 build days / 30 days** · **2 stars received** · **1 forks received**
 
-## About
+### Recently in the rotation
 
-I'm a **System Engineer at Tata Consultancy Services (TCS)**, supporting **Westpac Bank, Australia**, as an **IAM Support Analyst**. My work involves access provisioning, entitlement and approval checks, ServiceNow catalog configuration, and access-governance documentation.
+| Repository | Primary language | Last push (IST) |
+| :-- | :-- | :-- |
+| [sharanya-pal-portfolio](https://github.com/sharanyapal/sharanya-pal-portfolio) | HTML | 05 Nov 2026 |
+| [sp-growthlift-studio](https://github.com/sharanyapal/sp-growthlift-studio) | HTML | 14 Oct 2026 |
+| [sp-market-regime-radar](https://github.com/sharanyapal/sp-market-regime-radar) | HTML | 14 Oct 2026 |
+| [sp-creditsense-underwriting](https://github.com/sharanyapal/sp-creditsense-underwriting) | HTML | 14 Oct 2026 |
+| [sp-banktrace-fraud-network](https://github.com/sharanyapal/sp-banktrace-fraud-network) | HTML | 14 Oct 2026 |
 
-Alongside my professional work, I'm pursuing the **online BS in Data Science and Applications at IIT Madras**. I build independent projects to explore secure access, full-stack applications, machine learning, and systems programming.
+### Fresh from the keyboard
 
-Based in **Bengaluru, India**. Open to collaborating on identity-security tools, developer utilities, and applied data-science projects.
-
-## Professional Experience
-
-**Tata Consultancy Services — System Engineer**  
-*February 2025–Present · Bengaluru, India*  
-Client assignment: **Westpac Bank, Australia — IAM Support Analyst**
-
-- Process user-access provisioning requests and review required approvals and entitlement details.
-- Configure ServiceNow catalog forms and EAR templates, including scripting and workflow-related logic.
-- Validate changes in development and test environments and coordinate with application owners and support teams.
-- Maintain operational procedures, change records, and access-related evidence for governance reviews.
-
-## Selected Projects
-
-| Project | Focus | Technology |
-| --- | --- | --- |
-| [Identity Policy Auditor](https://github.com/sharanyapal/sp-iam-policy-engine) | RBAC decisions, deactivated accounts, and separation-of-duties checks | Python |
-| [Grounded RAG Search](https://github.com/sharanyapal/sp-advanced-grounded-rag) | Document retrieval with cited evidence and abstention | Python, BM25 |
-| [BankTrace Fraud Network](https://github.com/sharanyapal/sp-banktrace-fraud-network) | Transaction graphs, transfer-velocity alerts, and circular-flow detection on synthetic data | JavaScript, graph algorithms |
-| [Multi-Tenant Rate Governor](https://github.com/sharanyapal/sp-go-rate-governor) | Concurrent, per-tenant token-bucket rate limiting | Go |
-| [Neural Playground](https://github.com/sharanyapal/sp-advanced-neural-playground) | Training a small neural network and visualizing nonlinear decision boundaries | JavaScript, backpropagation |
-| [Knightfall Chess](https://github.com/sharanyapal/sp-advanced-chess-engine) | Legal moves, special chess rules, and a minimax opponent | JavaScript, search algorithms |
-
-These are independent portfolio projects. Browser applications and tools requiring a local runtime are documented in their repositories.
-
-**[Explore the full project collection →](https://github.com/sharanyapal/sharanya-pal-portfolio)**
+- **Revise README with updated profile and projects** — [sharanyapal@8fab447](https://github.com/sharanyapal/sharanyapal/commit/8fab44755a2b03e2892c3e48571fdca93363c16d) · 08 Nov
+- **docs: link career project portfolio from main README** — [sharanya-pal-portfolio@b82ffe5](https://github.com/sharanyapal/sharanya-pal-portfolio/commit/b82ffe5cb092170f1a803a2ec353f6947d14655b) · 05 Nov
+- **docs: add evidence-based security, data science and polyglot project index** — [sharanya-pal-portfolio@6e739d0](https://github.com/sharanyapal/sharanya-pal-portfolio/commit/6e739d02fdb50dab8cbb8f6fa672073395ad7b1b) · 05 Nov
 
 <details>
-<summary><strong>Academic application-development and machine-learning work</strong></summary>
+<summary>How the signal works</summary>
 
-- **Placement Portal Application:** Flask, SQLAlchemy, SQLite, and Bootstrap application with Admin, Company, and Student roles, approval workflows, applications, and resume uploads.
-- **Trekking Management V2:** Flask APIs and Vue 3 application with bookings, Redis caching, and Celery reminder tasks.
-- **Workspace Rental Price Tier Prediction:** Tabular feature engineering and multiclass model evaluation using LightGBM, CatBoost, and scikit-learn.
-- **Flight Ticket Price Regression:** Feature engineering, regression validation, and submission checks.
-- **SurfaceGuard AI:** Industrial defect segmentation using PyTorch and a ResNet34 U-Net.
+The dashboard checks my public repositories every 30 minutes and refreshes after pushes to this profile repository. GitHub scheduling and image caching can add a delay.
 
-</details>
+Commit counts cover my authored commits on the default branches of owned, non-fork public repositories over 30 calendar days in India time. The pulse is not GitHub's contribution graph or an all-time total. Language counts reflect primary repository languages, not proficiency. Private repository details are never included. Generated bot commits do not count toward the pulse.
 
-## Technical Focus
-
-| Area | Technologies and experience |
-| --- | --- |
-| **Professional IAM & ITSM** | Access provisioning, approvals and entitlements, ServiceNow catalog configuration, workflow validation, governance documentation |
-| **Application development** | Python, Flask, JavaScript, Vue 3, HTML/CSS, REST APIs |
-| **Data & asynchronous processing** | SQL, SQLite, MySQL, SQLAlchemy, Redis, Celery |
-| **Academic ML & data science** | pandas, NumPy, scikit-learn, LightGBM, CatBoost, PyTorch |
-| **Development tools** | Git, GitHub, automated testing |
-
-<details>
-<summary><strong>Additional languages explored through portfolio projects</strong></summary>
-
-Java, Go, TypeScript, C, C#, R, Ruby, MATLAB/Octave, and MongoDB.
+The dashboard only commits when its data or daily window changes. The timestamp shows when the displayed signal changed, not when a visitor last opened the page.
 
 </details>
+<!-- PROFILE:LIVE:END -->
 
-## Current Learning
+## Pick a genre
 
-- Identity governance, privileged access management, SSO, and federation fundamentals.
-- Microsoft Entra ID, Okta, and SailPoint through introductory coursework.
-- Web application security, Docker, and Kubernetes.
-- Machine-learning evaluation and deep-learning workflows.
+Some people collect playlists. I collect rabbit holes.
 
-## Earlier Internships
+| Collection | Start here | The rabbit hole |
+| :-- | :-- | :-- |
+| 🛡️ **Security & IAM** | [Identity Policy Auditor](https://github.com/sharanyapal/sp-iam-policy-engine) | Who can do what — and who really should not? |
+| 🧠 **AI & ML** | [Neural Playground](https://github.com/sharanyapal/sp-advanced-neural-playground) · [Grounded RAG](https://github.com/sharanyapal/sp-advanced-grounded-rag) | Teaching networks; making retrieval show its sources. |
+| 📈 **Fintech** | [BankTrace](https://github.com/sharanyapal/sp-banktrace-fraud-network) · [Market Regime Radar](https://github.com/sharanyapal/sp-market-regime-radar) | Following the patterns in synthetic transfers and market series. |
+| ⚙️ **Systems** | [Rate Governor](https://github.com/sharanyapal/sp-go-rate-governor) · [Event Horizon](https://github.com/sharanyapal/sp-event-horizon) | Taming traffic. Finding the signal in the logs. |
+| 🎮 **The Arcade** | [Knightfall Chess](https://github.com/sharanyapal/sp-advanced-chess-engine) · [PAC//MAZE](https://github.com/sharanyapal/sp-advanced-pac-maze) | Just one more game. For algorithm research, obviously. |
+| 🎨 **Creative Code** | [Pixel Foundry](https://github.com/sharanyapal/sp-pixel-foundry) · [Graph Forge](https://github.com/sharanyapal/sp-graph-forge) | Pixels, paths, and experiments you can poke. |
 
-| Organization | Role | Focus |
-| --- | --- | --- |
-| **Tata Steel** | Application Security Intern | Dynamic application security testing and common web vulnerabilities |
-| **Damodar Valley Corporation** | Vocational Trainee | Enterprise IT infrastructure, systems, and network operations |
-| **GAOTek Inc.** | Graphic Design / Team Lead Intern | Technical visuals and intern coordination |
+**[Browse the full collection →](https://github.com/sharanyapal/sharanya-pal-portfolio)**
 
-## Education
+## Behind the keyboard
 
-- **Indian Institute of Technology Madras** — Online BS in Data Science and Applications, ongoing.
-- **Heritage Institute of Technology, Kolkata** — B.Tech in Computer Science and Business Systems, 2024. DGPA: **7.61**.
+I'm **Sharanya**, a Bengaluru-based engineer. By day: **IAM support at TCS**. After hours: side quests in software, security, and data science while pursuing the **IIT Madras BS in Data Science and Applications**.
 
-## Beyond Code
-
-Painting, playing the synthesizer, photography, fitness, and gaming.
-
----
+```javascript
+const sharanya = {
+  defaultMode: "curious",
+  favouriteLoop: ["build", "break", "understand", "improve"],
+  sideQuests: ["painting", "synthesizer", "photography", "gaming"],
+  currentlyDebugging: "the balance between one more feature and sleep"
+};
+```
 
 <p align="center">
-  <a href="mailto:sharanyapal856@gmail.com">sharanyapal856@gmail.com</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/sharanyapal">@sharanyapal</a>
+  <a href="mailto:sharanyapal856@gmail.com">Email</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/sharanya-pal-a9a637187/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://github.com/sharanyapal?tab=repositories">Explore my repos</a>
 </p>
+
+<p align="center"><sub>Serious about the craft. Playful about the process.</sub></p>
