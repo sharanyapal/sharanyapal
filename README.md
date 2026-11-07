@@ -1,64 +1,113 @@
-<h1 align="center">Hi 👋, I'm Sharanya Pal</h1>
-<h3 align="center">A passionate Software Developer and IT Enthusiast</h3>
+<h1 align="center">Sharanya Pal</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sharanyapal&label=Profile%20views&color=0e75b6&style=flat" alt="sharanyapal" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sharanyapal" alt="sharanyapal" /></a> </p>
-
-## About ME 👋😄
-
-- 🔭 I’m currently working on **Real-Time Object Detection, Emotion-Music-Recommendation Model**
-- 🌱 I’m currently learning **Web Application Security, Docker, Kubernetes**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 🤔 I’m looking for help with **Advanced Security Testing Techniques**
-- 💬 Ask me about **Web Application Security, Graphic Design, IT Support, C/C++, Python, Java, MySQL**
-- 📫 How to reach me **sharanyapal856@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love painting and playing the synthesizer!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/sharanya-pal-a9a637187/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="sharanya-pal" height="30" width="40" /></a>
-  <a href="https://github.com/sharanyapal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="sharanyapal" height="30" width="40" /></a>
+<p align="center">
+  <strong>System Engineer at TCS · Identity &amp; Access Management · Software Development</strong>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+<p align="center">
+  Building practical projects across identity security, software engineering, and data science.
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sharanyapal&show_icons=true&locale=en&layout=compact" alt="sharanyapal" /></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharanya-pal-a9a637187/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:sharanyapal856@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sharanyapal/sharanya-pal-portfolio">Project Collection</a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharanyapal&show_icons=true&locale=en" alt="sharanyapal" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharanyapal&" alt="sharanyapal" /></p>
+## About
 
-<h3 align="left">Projects:</h3>
-<ul>
-  <li><b>Real-Time Object Detection:</b> Creating a real-time object detection system using Flask, OpenCV, and a pre-trained model. The system can identify objects in real-time video streams and perform real-time object detection and tracking via a web browser.</li>
-  <li><b>Emotion-Music-Recommendation Model:</b> The model takes input from the user's emotions through their facial expressions and provides personalized music recommendations based on the input.</li>
-  <li><b>Compression-then-Encryption Algorithm:</b> Developed a novel algorithm for compressing and encrypting colored images using PCA, sparse matrices, and custom mathematical operations.</li>
-</ul>
+I'm a **System Engineer at Tata Consultancy Services (TCS)**, supporting **Westpac Bank, Australia**, as an **IAM Support Analyst**. My work involves access provisioning, entitlement and approval checks, ServiceNow catalog configuration, and access-governance documentation.
 
-<h3 align="left">Experience:</h3>
-<ul>
-  <li><b>Application Security Intern at Tata Steel:</b> Performed web application security testing using DAST tools, identifying and assessing real-time vulnerabilities.</li>
-  <li><b>Vocational Trainer at Damodar Valley Corporation:</b> Provided technical support, participated in software development projects, and managed data-related tasks.</li>
-  <li><b>Graphic Designer | Team Lead at GAO Tek Inc.:</b> Guided interns, designed high-quality graphics, and stayed updated on industry trends.</li>
-</ul>
+Alongside my professional work, I'm pursuing the **online BS in Data Science and Applications at IIT Madras**. I build independent projects to explore secure access, full-stack applications, machine learning, and systems programming.
 
-<h3 align="left">Education:</h3>
-<ul>
-  <li><b>Bachelor of Technology (B.Tech) in Computer Science and Business System from Heritage Institute of Technology, Kolkata:</b> Graduated with a DGPA of 7.61.</li>
-</ul>
+Based in **Bengaluru, India**. Open to collaborating on identity-security tools, developer utilities, and applied data-science projects.
 
-<h3 align="left">Hobbies & Interests:</h3>
-<ul>
-  <li>Hobbies: Painting/Drawing, Playing synthesizer, Gaming, Fitness/Exercise, Coding, Cooking, Photography, Gardening</li>
-  <li>Interests: Listening to music, Reading books, Travelling, Films/TV shows, Technology</li>
-</ul>
+## Professional Experience
+
+**Tata Consultancy Services — System Engineer**  
+*February 2025–Present · Bengaluru, India*  
+Client assignment: **Westpac Bank, Australia — IAM Support Analyst**
+
+- Process user-access provisioning requests and review required approvals and entitlement details.
+- Configure ServiceNow catalog forms and EAR templates, including scripting and workflow-related logic.
+- Validate changes in development and test environments and coordinate with application owners and support teams.
+- Maintain operational procedures, change records, and access-related evidence for governance reviews.
+
+## Selected Projects
+
+| Project | Focus | Technology |
+| --- | --- | --- |
+| [Identity Policy Auditor](https://github.com/sharanyapal/sp-iam-policy-engine) | RBAC decisions, deactivated accounts, and separation-of-duties checks | Python |
+| [Grounded RAG Search](https://github.com/sharanyapal/sp-advanced-grounded-rag) | Document retrieval with cited evidence and abstention | Python, BM25 |
+| [BankTrace Fraud Network](https://github.com/sharanyapal/sp-banktrace-fraud-network) | Transaction graphs, transfer-velocity alerts, and circular-flow detection on synthetic data | JavaScript, graph algorithms |
+| [Multi-Tenant Rate Governor](https://github.com/sharanyapal/sp-go-rate-governor) | Concurrent, per-tenant token-bucket rate limiting | Go |
+| [Neural Playground](https://github.com/sharanyapal/sp-advanced-neural-playground) | Training a small neural network and visualizing nonlinear decision boundaries | JavaScript, backpropagation |
+| [Knightfall Chess](https://github.com/sharanyapal/sp-advanced-chess-engine) | Legal moves, special chess rules, and a minimax opponent | JavaScript, search algorithms |
+
+These are independent portfolio projects. Browser applications and tools requiring a local runtime are documented in their repositories.
+
+**[Explore the full project collection →](https://github.com/sharanyapal/sharanya-pal-portfolio)**
+
+<details>
+<summary><strong>Academic application-development and machine-learning work</strong></summary>
+
+- **Placement Portal Application:** Flask, SQLAlchemy, SQLite, and Bootstrap application with Admin, Company, and Student roles, approval workflows, applications, and resume uploads.
+- **Trekking Management V2:** Flask APIs and Vue 3 application with bookings, Redis caching, and Celery reminder tasks.
+- **Workspace Rental Price Tier Prediction:** Tabular feature engineering and multiclass model evaluation using LightGBM, CatBoost, and scikit-learn.
+- **Flight Ticket Price Regression:** Feature engineering, regression validation, and submission checks.
+- **SurfaceGuard AI:** Industrial defect segmentation using PyTorch and a ResNet34 U-Net.
+
+</details>
+
+## Technical Focus
+
+| Area | Technologies and experience |
+| --- | --- |
+| **Professional IAM & ITSM** | Access provisioning, approvals and entitlements, ServiceNow catalog configuration, workflow validation, governance documentation |
+| **Application development** | Python, Flask, JavaScript, Vue 3, HTML/CSS, REST APIs |
+| **Data & asynchronous processing** | SQL, SQLite, MySQL, SQLAlchemy, Redis, Celery |
+| **Academic ML & data science** | pandas, NumPy, scikit-learn, LightGBM, CatBoost, PyTorch |
+| **Development tools** | Git, GitHub, automated testing |
+
+<details>
+<summary><strong>Additional languages explored through portfolio projects</strong></summary>
+
+Java, Go, TypeScript, C, C#, R, Ruby, MATLAB/Octave, and MongoDB.
+
+</details>
+
+## Current Learning
+
+- Identity governance, privileged access management, SSO, and federation fundamentals.
+- Microsoft Entra ID, Okta, and SailPoint through introductory coursework.
+- Web application security, Docker, and Kubernetes.
+- Machine-learning evaluation and deep-learning workflows.
+
+## Earlier Internships
+
+| Organization | Role | Focus |
+| --- | --- | --- |
+| **Tata Steel** | Application Security Intern | Dynamic application security testing and common web vulnerabilities |
+| **Damodar Valley Corporation** | Vocational Trainee | Enterprise IT infrastructure, systems, and network operations |
+| **GAOTek Inc.** | Graphic Design / Team Lead Intern | Technical visuals and intern coordination |
+
+## Education
+
+- **Indian Institute of Technology Madras** — Online BS in Data Science and Applications, ongoing.
+- **Heritage Institute of Technology, Kolkata** — B.Tech in Computer Science and Business Systems, 2024. DGPA: **7.61**.
+
+## Beyond Code
+
+Painting, playing the synthesizer, photography, fitness, and gaming.
+
+---
+
+<p align="center">
+  <a href="mailto:sharanyapal856@gmail.com">sharanyapal856@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/sharanyapal">@sharanyapal</a>
+</p>
