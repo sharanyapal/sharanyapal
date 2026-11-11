@@ -5,6 +5,7 @@
 <p align="center">
   <a href="#build-signal">Build signal</a> &nbsp; / &nbsp;
   <a href="#pick-a-genre">Pick a genre</a> &nbsp; / &nbsp;
+  <a href="#classic-corner">C++ classics</a> &nbsp; / &nbsp;
   <a href="#behind-the-keyboard">Behind the keyboard</a> &nbsp; / &nbsp;
   <a href="https://www.linkedin.com/in/sharanya-pal-a9a637187/">Say hello ↗</a>
 </p>
@@ -56,8 +57,24 @@ Some people collect playlists. I collect rabbit holes.
 | ⚙️ **Systems** | [Rate Governor](https://github.com/sharanyapal/sp-go-rate-governor) · [Event Horizon](https://github.com/sharanyapal/sp-event-horizon) | Taming traffic. Finding the signal in the logs. |
 | 🎮 **The Arcade** | [Knightfall Chess](https://github.com/sharanyapal/sp-advanced-chess-engine) · [PAC//MAZE](https://github.com/sharanyapal/sp-advanced-pac-maze) | Just one more game. For algorithm research, obviously. |
 | 🎨 **Creative Code** | [Pixel Foundry](https://github.com/sharanyapal/sp-pixel-foundry) · [Graph Forge](https://github.com/sharanyapal/sp-graph-forge) | Pixels, paths, and experiments you can poke. |
+| 🕹️ **Classic C++** | [Tic-Tac-Toe](https://github.com/sharanyapal/cpp-tic-tac-toe) · [Bank Management](https://github.com/sharanyapal/cpp-bank-management-system) | Small programs, timeless programming lessons. |
 
 **[Browse the full collection →](https://github.com/sharanyapal/sharanya-pal-portfolio)**
+
+## Classic corner
+
+Before frameworks and dashboards, there was the console. These eight C++ projects are small windows into input handling, procedural logic, records and game loops.
+
+| Build | The idea |
+|:--|:--|
+| [Tic-Tac-Toe](https://github.com/sharanyapal/cpp-tic-tac-toe) · [Snake & Ladder](https://github.com/sharanyapal/cpp-snake-and-ladder) | Turns, rules and state changes |
+| [Hangman](https://github.com/sharanyapal/cpp-hangman-game) · [Casino Guessing](https://github.com/sharanyapal/cpp-casino-number-guessing) | Loops, guesses and decisions |
+| [Bank Management](https://github.com/sharanyapal/cpp-bank-management-system) · [Supermarket Billing](https://github.com/sharanyapal/cpp-supermarket-billing) | Records, money and arithmetic |
+| [Library Management](https://github.com/sharanyapal/cpp-library-management-system) · [Student Report Card](https://github.com/sharanyapal/cpp-student-report-card) | Structured records and reports |
+
+> The original console code is preserved. Browser/WebAssembly support is experimental and is not presented as a working live deployment until verified.
+
+**A suggestion for browsing:** Start with a project's README, inspect its entry point, and try changing one controlled input. Good code reviews are often questions, not just answers.
 
 ## Behind the keyboard
 
